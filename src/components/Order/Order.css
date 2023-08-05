@@ -1,0 +1,8 @@
+.products-container {
+    margin: 0 auto;
+}
+
+.review-product-container {
+    display: flex;
+    justify-content: space-between;
+}
